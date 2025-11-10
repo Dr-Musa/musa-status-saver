@@ -1,11 +1,10 @@
-# Musa ✅ WhatsApp — Status Saver (APK)
+# Musa ✅ WhatsApp (APK)
 
 **مهم:** لصناعة APK بشكل سريع:
 1) ثبّت Flutter و Android SDK.
 2) أنشئ مشروعًا فارغًا باسم `status_saver`:
    ```bash
-   flutter create status_saver
-   ```
+   flutter 
 3) انسخ الملفات من هذا الأرشيف فوق المشروع:
    - `pubspec.yaml` → استبدل الملف.
    - `lib/main.dart` → استبدل الملف.
